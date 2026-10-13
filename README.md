@@ -1,3 +1,6 @@
+
+![Route Performance Analysis Dashboard](Route_Performance_Dashboard.png)
+
 # Route Performance Analysis
 
 ## Project Overview
